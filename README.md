@@ -10,7 +10,7 @@ A simple service to return live stock quotes.
 - Add a .env file to the Stocktastic root directory and configure as follows (substituting your iexcloud public and secret keys):
 
 ```
-IEXCLOUD_API_VERSION = "v1"
+IEXCLOUD_API_VERSION = "beta"
 IEXCLOUD_PUBLIC_KEY = "pk_..."
 IEXCLOUD_SECRET_KEY = "sk_..."
 ```
