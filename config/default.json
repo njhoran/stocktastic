@@ -1,0 +1,6 @@
+{
+	"hostname" : "localhost",
+	"port"     : 3001,
+	"basePath" : "/",
+	"testMode" : false
+}
